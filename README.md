@@ -1,6 +1,6 @@
 # HCPH Internship
 
-This is all the work I did during my internship at HCPH. This occurred from 07/27/21 - 07/30/21.
+This is all the work I did during my internship at HCPH.
 
 ### Tools
 - PowerBI + Tableau
